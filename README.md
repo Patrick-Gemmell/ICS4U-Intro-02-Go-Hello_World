@@ -1,1 +1,1 @@
-# ICS4U-Intro-02-JavaScript-Hello_World
+# ICS4U-Intro-02-Go-Hello_World
